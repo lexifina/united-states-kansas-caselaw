@@ -1,0 +1,8 @@
+path	relation	target	note
+decisions/kansas-supreme-court/1912/86-Kan-354--cap-8862162.md	same-decision-as	decisions/kansas-supreme-court/1912/86-Kan-354.md	the same decision held twice (86 Kan. 354, CAP ids 8862162 and 8862106), same day and text (similarity 1.00); both kept
+decisions/kansas-supreme-court/1912/87-Kan-514.md	same-decision-as	decisions/kansas-supreme-court/1912/87-Kan-513--cap-1231088.md	the same decision in another reporter (87 Kan. 514 and 87 Kan. 513), same day and text (similarity 0.87); both kept
+decisions/kansas-supreme-court/1944/158-Kan-77.md	same-decision-as	decisions/kansas-supreme-court/1944/158-Kan-69.md	the same decision in another reporter (158 Kan. 77 and 158 Kan. 69), same day and text (similarity 0.62, text contained 1.00); both kept
+decisions/kansas-supreme-court/1989/246-Kan-395.md	same-decision-as	decisions/kansas-supreme-court/1989/245-Kan-221.md	the same decision in another reporter (246 Kan. 395 and 245 Kan. 221), same day and text (similarity 0.76, text contained 1.00); both kept
+decisions/kansas-supreme-court/2004/277-Kan-570.md	same-decision-as	decisions/kansas-supreme-court/2004/277-Kan-565.md	the same decision in another reporter (277 Kan. 570 and 277 Kan. 565), same day and text (similarity 0.95); both kept
+decisions/kansas-supreme-court/2014/300-Kan-340.md	same-decision-as	decisions/kansas-supreme-court/2014/300-Kan-1.md	the same decision in another reporter (300 Kan. 340 and 300 Kan. 1), same day and text (similarity 0.86); both kept
+decisions/supreme-court-of-kansas/1896/14-N-Y-Crim-233.md	same-decision-as	decisions/kansas-supreme-court/1896/56-Kan-374.md	the same decision in another reporter (14 N.Y. Crim. 233 and 56 Kan. 374), same day and text (similarity 0.99); both kept
